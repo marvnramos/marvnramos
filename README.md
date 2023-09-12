@@ -7,7 +7,7 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 - Universidad Francisco Gavidia | UFG
 - Currently
 ## Contact with me 🤝
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/marvn-ramos/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="marvnramos"/>
 </a>

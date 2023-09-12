@@ -18,10 +18,16 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 
 ## Languages and Tools
 <p>
-    <a>
+    <a href="" target="blank">
         <img align="center" src="https://fontawesome.com/icons/html5?f=brands&s=solid&pc=%23d96a20" alt="html5" height="45px" width="45px" />
     </a>
-    <img align="center" src="https://fontawesome.com/icons/square-js?f=brands&s=solid&pc=%23f4ce43" alt="JavaScript" height="45px" width="45px" />
+    <a href="" target="blank">
+        <img align="center" src="https://fontawesome.com/icons/square-js?f=brands&s=solid&pc=%23f4ce43" alt="JavaScript" height="45px" width="45px" />
+    </a>
+    <a href="" target="blank">
     <img align="center" src="https://fontawesome.com/icons/git-alt?f=brands&s=solid&pc=%23f09328" alt="Git" height="45px" width="45px" />
+    </a>
+    <a href="" target="blank">
     <img align="center" src="https://fontawesome.com/icons/github?f=brands&s=solid&pc=%23ffffff" alt="Git" height="45px" width="45px" />
+    </a>
 </p>

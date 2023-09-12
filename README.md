@@ -11,10 +11,11 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 
 <p align="center">
 <a href="https://twitter.com/MarvnRamos" target="blank">
-    <img align="center" src="img/x.svg" alt="marvnramos" height="28px" width="28px" />
+    <img align="center" src="img/square-x-twitter.svg" alt="marvnramos" height="28px" width="28px" />
   </a>
 </p>
 <!--[![Icono de X](<img src="img/square-x-twitter.svg" width="100" alt="Icono de X">)](https://twitter.com/MarvnRamos)-->
+
 <!--
 **MarvnDev/MarvnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

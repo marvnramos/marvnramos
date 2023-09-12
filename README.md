@@ -16,17 +16,10 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 </a>
 </p>
 
-<!--
-**MarvnDev/MarvnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a Valorant player
--->
+## Languages and Tools
+<p>
+    <img align="center" src="https://fontawesome.com/icons/html5?f=brands&s=solid&pc=%23d96a20" alt="html5" height="45px" width="45px" />
+    <img align="center" src="https://fontawesome.com/icons/square-js?f=brands&s=solid&pc=%23f4ce43" alt="JavaScript" height="45px" width="45px" />
+    <img align="center" src="https://fontawesome.com/icons/git-alt?f=brands&s=solid&pc=%23f09328" alt="Git" height="45px" width="45px" />
+    <img align="center" src="https://fontawesome.com/icons/github?f=brands&s=solid&pc=%23ffffff" alt="Git" height="45px" width="45px" />
+</p>

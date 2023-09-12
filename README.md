@@ -1,4 +1,8 @@
 ![cheese!](Header-Image.png)
+
+Welcome to my GitHub profile!🍂
+It's me, Marvin, a Software Development Engineering student in El Salvador and a tech enthusiast. 👀
+## Contacto
 <!--
 **MarvnDev/MarvnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -30,4 +30,10 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
     <a href="" target="blank">
     <img align="center" src="img/github-color.svg" alt="Github" height="45px" width="45px" />
     </a>
+    <a href="" target="blank">
+    <img align="center" src="img/css3-color.svg" alt="css" height="45px" width="45px" />
+    </a>
+    <a href="" target="blank">
+    <img align="center" src="img/python-color.svg" alt="python" height="45px" width="45px" />
+    </a>
 </p>

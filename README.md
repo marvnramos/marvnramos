@@ -2,7 +2,13 @@
 
 Welcome to my GitHub profile!🍂
 It's me, Marvin, a Software Development Engineering student in El Salvador and a tech enthusiast. 👀
-# Contacto
+## Education
+- **Software Development Engineer**
+- Universidad Francisco Gavidia | UFG
+- Currently
+## Contact with me
+-[LinkedIn](https://www.linkedin.com/in/marvn-ramos/)
+-[X](https://twitter.com/MarvnRamos)
 <!--
 **MarvnDev/MarvnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

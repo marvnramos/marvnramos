@@ -1,4 +1,4 @@
-![cheese!](Header-Image.png)
+![cheese!](img/Header-Image.png)
 
 Welcome to my GitHub profile!🍂
 It's me, Marvin, a Software Development Engineering student in El Salvador and a tech enthusiast. 👀

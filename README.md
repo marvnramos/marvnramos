@@ -28,6 +28,6 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
     <img align="center" src="img/git-color.svg" alt="Git" height="45px" width="45px" />
     </a>
     <a href="" target="blank">
-    <img align="center" src="github-color.svg" alt="Github" height="45px" width="45px" />
+    <img align="center" src="img/github-color.svg" alt="Github" height="45px" width="45px" />
     </a>
 </p>

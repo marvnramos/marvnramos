@@ -11,7 +11,7 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 
 <p align="center">
 <a href="https://twitter.com/MarvnRamos" target="blank">
-    <img align="center" src="https://fontawesome.com/icons/square-x-twitter?f=brands&s=solid&sz=2xs" alt="marvnramos" height="28px" width="28px" />
+    <img align="center" src="img/x.svg" alt="marvnramos" height="28px" width="28px" />
   </a>
 </p>
 <!--[![Icono de X](<img src="img/square-x-twitter.svg" width="100" alt="Icono de X">)](https://twitter.com/MarvnRamos)-->

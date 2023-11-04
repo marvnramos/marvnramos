@@ -11,7 +11,7 @@ It's me, Marvin, a Software Development Engineering student in El Salvador and a
 <a href="https://www.linkedin.com/in/marvn-ramos/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="marvnramos"/>
 </a>
-<a href="https://twitter.com/MarvnRamos" target="blank">
+<a href="https://twitter.com/marvnramos" target="blank">
     <img align="center" src="img/square-x-twitter.svg" alt="marvnramos" height="45px" width="45px" />
 </a>
 </p>

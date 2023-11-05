@@ -9,6 +9,8 @@ What truly motivates me in the tech field is the endless potential for innovatio
 
 I believe in the power of continuous learning and collaboration in the ever-evolving world of software development. 
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+
 ## Education 🧠
 - **Software Development Engineer**
 - Currently pursuing an undergraduate degree in Software Development Engineering at Universidad Francisco Gavidia (UFG).

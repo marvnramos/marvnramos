@@ -49,7 +49,7 @@ I believe in the power of continuous learning and collaboration in the ever-evol
 ## Projects 🫧
 Here are some of the projects I've been working on:
 1. **GreenIX** 🍃
-   -GreenIX, the name of our platform, originated as a project dedicated to the development of an e-commerce website specializing in sustainable technology and electronics. During the collaboration process, our focus was on creating an innovative platform that would highlight environmentally friendly electronic products. Our vision is to demonstrate how technological solutions can converge with sustainability in the online shopping space, offering consumers responsible and high quality choices.
+- GreenIX, the name of our platform, originated as a project dedicated to the development of an e-commerce website specializing in sustainable technology and electronics. During the collaboration process, our focus was on creating an innovative platform that would highlight environmentally friendly electronic products. Our vision is to demonstrate how technological solutions can converge with sustainability in the online shopping space, offering consumers responsible and high quality choices.
    - [Demo](https://youtu.be/yYlHbgjQfOc?si=cTy663IHN2-egK7W)
    - [FrontEnd-Deploy](https://c14-15-t-node-react.vercel.app/)
    - [BackEnd-Deploy](https://greenxi.zeabur.app/api/v1/docs/)

@@ -1,6 +1,10 @@
 ![cheese!](img/Header-Image.png)
+<div align="center">
+<a href="https://www.linkedin.com/in/marvn-ramos/" target="blank"><img align = "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" alt="marvnramos" /></a> <a href="https://twitter.com/marvnramos" target="blank"><img align = "center" src="https://img.shields.io/twitter/follow/marvnramos" alt="marvnramos" /></a>
+</div>
 
 # Marvin Ramos | Full Stack Software Developer Engineering Student
+
 Welcome to my GitHub profile!🍂
 
 <img align="right" width=250px alt="Cat" src="img/catgifdos.gif" />
@@ -38,36 +42,30 @@ One of my notable contributions includes my role as a backend developer for the 
 
 In addition, I'm committed to the principles of collaboration, sharing knowledge, and leveraging the power of open-source software to drive positive change. Being part of these initiatives has not only expanded my technical skills but also allowed me to connect with like-minded developers and contribute to meaningful projects.
 
+## My Stats 🍪
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarvnRamos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvnRamos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Contact with me 🤝
-<p>
-<a href="https://www.linkedin.com/in/marvn-ramos/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="marvnramos"/>
-</a>
-<a href="https://twitter.com/marvnramos" target="blank">
-    <img align="center" src="img/square-x-twitter.svg" alt="marvnramos" height="45px" width="45px" />
-</a>
-</p>
 
-## Languages and Tools 😎
-<p>
-    <a href="" target="blank">
-        <img align="center" src="img/html5-color.svg" alt="html5" height="45px" width="45px" />
-    </a>
-    <a href="" target="blank">
-    <img align="center" src="img/css3-color.svg" alt="css" height="45px" width="45px" />
-    </a>
-    <a href="" target="blank">
-        <img align="center" src="img/javascript-color.svg" alt="JavaScript" height="45px" width="45px" />
-    </a>
-    <a href="" target="blank">
-    <img align="center" src="img/git-color.svg" alt="Git" height="45px" width="45px" />
-    </a>
-    <a href="" target="blank">
-    <img align="center" src="img/github-color.svg" alt="Github" height="45px" width="45px" />
-    </a>
-    <a href="" target="blank">
-    <img align="center" src="img/python-color.svg" alt="python" height="45px" width="45px" />
-    </a>
-</p>
 
+
+## Tech stack  😎
+
+<table border="0" cellspacing="5" cellpadding="10" width="400" height="200" align="center">
+  <tr>
+    <th><b>Programming Languages</b></th>
+    <th><b>Front End Development</b></th>
+    <th><b></b>Back End Development</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,python" height=32 alt="Programming Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css" height=32 alt="Frontend development" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," height=32 alt="Backend development" /></td>
+  </tr>
+</table>
+
+
+
+<img src="https://raw.githubusercontent.com/MarvnRamos/MarvnRamos/output/snake.svg" alt="Snake animation" />

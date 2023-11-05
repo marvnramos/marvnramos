@@ -5,9 +5,9 @@ Welcome to my GitHub profile!🍂
 
 Hello 👋, I'm Marvin Ramos, and I'm deeply passionate about software development. My journey in this field began when I started my engineering studies. As a full-stack software development student, I've had the opportunity to delve into various programming languages, web development, and database management.
 
-What truly motivates me in the tech field is the endless potential for innovation and problem-solving. I find it incredibly fulfilling to tackle complex challenges and create solutions that can make a positive impact on people's lives. Whether it's developing a web application that streamlines a business process or contributing to open source projects that enhance the global tech community, I'm driven by the opportunity to learn and grow while making a meaningful difference.
+What truly motivates me in the tech field is the endless potential for innovation and problem-solving. I find it incredibly fulfilling to tackle complex challenges and create solutions that can make a positive impact on people's lives. Whether it's developing a web application that streamlines a business process or contributing to open source projects that enhance the global tech community, I'm driven by the opportunity to learn and grow while making a meaningful difference. ✨
 
-I believe in the power of continuous learning and collaboration in the ever-evolving world of software development.
+I believe in the power of continuous learning and collaboration in the ever-evolving world of software development. 
 
 ## Education 🧠
 - **Software Development Engineer**
@@ -49,7 +49,7 @@ I believe in the power of continuous learning and collaboration in the ever-evol
 ## Projects 🫧
 Here are some of the projects I've been working on:
 1. **GreenIX** 🍃
-- GreenIX, the name of our platform, originated as a project dedicated to the development of an e-commerce website specializing in sustainable technology and electronics. During the collaboration process, our focus was on creating an innovative platform that would highlight environmentally friendly electronic products. Our vision is to demonstrate how technological solutions can converge with sustainability in the online shopping space, offering consumers responsible and high quality choices.
+GreenIX, the name of our platform, originated as a project dedicated to the development of an e-commerce website specializing in sustainable technology and electronics. During the collaboration process, our focus was on creating an innovative platform that would highlight environmentally friendly electronic products. Our vision is to demonstrate how technological solutions can converge with sustainability in the online shopping space, offering consumers responsible and high quality choices.
    - [Demo](https://youtu.be/yYlHbgjQfOc?si=cTy663IHN2-egK7W)
    - [FrontEnd-Deploy](https://c14-15-t-node-react.vercel.app/)
    - [BackEnd-Deploy](https://greenxi.zeabur.app/api/v1/docs/)

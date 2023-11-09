@@ -1,3 +1,4 @@
+![GitHub watchers](https://img.shields.io/github/watchers/MarvnRamos/MarvnRamos?label=WATCHERS&style=flat-square&color=906DC0)
 ![cheese!](img/Header-Image.png)
 
 
@@ -64,7 +65,7 @@ In addition, I'm committed to the principles of collaboration, sharing knowledge
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvnRamos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## My contributions 🐍
 
 <img src="https://raw.githubusercontent.com/MarvnRamos/MarvnRamos/output/snake.svg" alt="Snake animation" />
 

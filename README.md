@@ -1,4 +1,4 @@
-![GitHub watchers](https://img.shields.io/github/watchers/MarvnRamos/MarvnRamos?label=WATCHERS&style=flat-square&color=906DC0)
+
 ![cheese!](img/Header-Image.png)
 
 

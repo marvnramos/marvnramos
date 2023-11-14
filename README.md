@@ -61,13 +61,13 @@ In addition, I'm committed to the principles of collaboration, sharing knowledge
 
 ## My Stats 📉📌
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarvnRamos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvnRamos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marvnramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvnramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## My contributions 🐍
 
-<img src="https://raw.githubusercontent.com/MarvnRamos/MarvnRamos/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marvnramos/marvnramos/output/snake.svg" alt="Snake animation" />
 
 ## Connect with me 🤝😺
 <div align="center">

@@ -50,7 +50,7 @@ In addition, I'm committed to the principles of collaboration, sharing knowledge
   <tr>
     <th><b>Programming Languages</b></th>
     <th><b>Front End Development</b></th>
-    <th><b></b>Back End Development</th>
+    <th><b>Back End Development</b></th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,python" height=32 alt="Programming Languages" /></td>

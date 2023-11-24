@@ -2,7 +2,7 @@
 ![cheese!](img/Header-Image.png)
 
 
-# Marvin Ramos | Full Stack Software Developer Engineering Student
+# Marvin Ramos | Full Stack Software Development Engineering Student
 
 Welcome to my GitHub profile!🍂
 

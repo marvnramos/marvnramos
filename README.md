@@ -8,7 +8,7 @@ Welcome to my GitHub profile!🍂
 
 <img align="right" width=250px alt="Cat" src="img/catgifdos.gif" />
 
-Hello 👋, I'm Marvin Ramos, and I'm deeply passionate about software development. My journey in this field began when I started my engineering studies. As a full-stack software development student, I've had the opportunity to delve into various programming languages, web development, and database management.
+Hello 👋, I'm Marvin Ramos. My journey in this field began when I started my engineering studies. As a full-stack software development student, I've had the opportunity to delve into various programming languages, web development, and database management.
 
 What truly motivates me in the tech field is the endless potential for innovation and problem-solving. I find it incredibly fulfilling to tackle complex challenges and create solutions that can make a positive impact on people's lives. Whether it's developing a web application that streamlines a business process or contributing to open source projects that enhance the global tech community, I'm driven by the opportunity to learn and grow while making a meaningful difference. ✨
 

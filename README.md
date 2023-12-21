@@ -24,10 +24,8 @@ Here are some of the projects I've been working on:
  |
  <a href="https://youtu.be/yYlHbgjQfOc?si=cTy663IHN2-egK7W" target="blank">View Demo Video</a>
  |
- <a href="https://c14-15-t-node-react.vercel.app/" target="blank">Front End Deploy</a>
- |
-  <a href="https://greenxi.zeabur.app/api/v1/docs/" target="blank">Back End Deploy</a>
-</p>
+ <a href="https://c14-15-t-node-react.vercel.app/" target="blank">Deploy</a>
+ </p>
 
 ## Education 🧠
 - **Software Development Engineer**

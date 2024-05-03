@@ -53,7 +53,7 @@ In addition, I'm committed to the principles of collaboration, sharing knowledge
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,python" height=32 alt="Programming Languages" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html,css" height=32 alt="Frontend development" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," height=32 alt="Backend development" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height=32 alt="Backend development" /></td>
   </tr>
 </table>
 

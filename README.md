@@ -67,7 +67,8 @@ In addition, I'm committed to the principles of collaboration, sharing knowledge
 
 <img src="https://raw.githubusercontent.com/marvnramos/marvnramos/output/snake.svg" alt="Snake animation" />
 
-## Connect with me 🤝😺
+## &nbsp;Connect with me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="27px" /> 
+
 <div align="center">
 <a href="https://www.linkedin.com/in/marvn-ramos/" target="blank"><img align = "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" alt="marvnramos" /></a> <a href="https://twitter.com/marvnramos" target="blank"><img align = "center" src="https://img.shields.io/twitter/follow/marvnramos" alt="marvnramos" /></a>
 </div>

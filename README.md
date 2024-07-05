@@ -2,7 +2,7 @@
 ![cheese!](img/Header-Image.png)
 
 
-# Marvin Ramos | Software Development Engineering Student
+# 💻 🦖 Software Developer & Engineering Student
 
 Welcome to my GitHub profile!🍂
 

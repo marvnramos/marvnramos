@@ -1,69 +1,38 @@
-
 ![cheese!](img/Header-Image.png)
 
+<img align="right" width=150px alt="Cat" src="img/catgifdos.gif" />
+I am currently pursuing an undergraduate degree in Software Development Engineering and specializing in backend development and application architecture. Driven by the potential for innovation and problem-solving, I focus on building scalable solutions using Node.js and React. I am actively seeking opportunities to contribute as a Backend Engineer. ✨
 
-# 💻 🦖 Software Developer & Engineering Student
+</br>
+</br>
 
-Welcome to my GitHub profile!🍂
+## Featured Projects 🫧
+### GreenIX 🍃 (Sustainable E-commerce Platform)
 
-<img align="right" width=250px alt="Cat" src="img/catgifdos.gif" />
+GreenIX is a collaborative web application developed within the 'No Country' organization, focusing on promoting and selling sustainable technologies and appliances.
 
-Hello 👋, I'm Marvin Ramos. My journey in this field began when I started my engineering studies. As a software development student, I've had the opportunity to delve into various programming languages, web development, and database management.
+   - Problem Solved: Created a functional e-commerce platform to showcase the convergence of technology and sustainability in the online shopping space.
 
-What truly motivates me in the tech field is the endless potential for innovation and problem-solving. I find it incredibly fulfilling to tackle complex challenges and create solutions that can make a positive impact on people's lives. Whether it's developing a web application that streamlines a business process or contributing to open source projects that enhance the global tech community, I'm driven by the opportunity to learn and grow while making a meaningful difference. ✨
+   - My Role: Backend Developer, responsible for designing and maintaining the core infrastructure.
 
-I believe in the power of continuous learning and collaboration in the ever-evolving world of software development. 
+   - Tech Stack Focus: Implemented the robust backend and API using Node.js, Express, and MongoDB.
 
+## Professional Experience & Education 🧠 
 
-## Projects 🫧
-Here are some of the projects I've been working on:
-1. **GreenIX** 🍃
-<br>GreenIX, the name of our platform, originated as a project dedicated to the development of an e-commerce website specializing in sustainable technology and electronics. During the collaboration process, our focus was on creating an innovative platform that would highlight environmentally friendly electronic products. Our vision is to demonstrate how technological solutions can converge with sustainability in the online shopping space, offering consumers responsible and high quality choices.
-<p align="center">
- <a href="https://github.com/MarvnRamos/c14-15-t-node-react.git" target="blank">GitHub Repository</a>
- |
- <a href="https://youtu.be/yYlHbgjQfOc?si=cTy663IHN2-egK7W" target="blank">View Demo Video</a>
- |
- <a href="https://c14-15-t-node-react.vercel.app/" target="blank">Deploy</a>
- </p>
+### Professional Experience (Ravn)
 
-## Education 🧠
-- **Software Development Engineer**
-- Currently pursuing an undergraduate degree in Software Development Engineering at Universidad Francisco Gavidia (UFG).
-- Expected graduation in 2025.
-- Strong dedication to mastering the basic principles of software development.
+   - Software Engineer (May 2025 – Present, Remote)
 
-## Contribution and Open Source 🌎
+   - Node.js Engineer, Nerdery (Nov 2024 – May 2025, Hybrid)
+     Specialized in backend development using advanced frameworks including GraphQL and NestJS.
 
-I'm proud to be part of an organization of developers called 'No Country.' Their mission is to bridge the gap between junior developers in Latin America and potential employers.
+### Academic and Community Contribution
 
-One of my notable contributions includes my role as a backend developer for the 'GreenIX' project within 'No Country.' GreenIX is a web application in the e-commerce sector, with a specific focus on promoting and selling sustainable technologies and appliances. My contributions involved developing and maintaining the backend infrastructure of the application, ensuring its smooth operation, and helping to create a platform that encourages sustainable consumption.
+   - Software Development Engineering: Currently pursuing an undergraduate degree at Universidad Francisco Gavidia (UFG), expected graduation in 2025.
 
-In addition, I'm committed to the principles of collaboration, sharing knowledge, and leveraging the power of open-source software to drive positive change. Being part of these initiatives has not only expanded my technical skills but also allowed me to connect with like-minded developers and contribute to meaningful projects.
+   - No Country' Contributor: Active participant in the 'No Country' organization, which provides collaborative, remote development experience for developers in Latin America.
 
-
-## Tech stack  😎
-
-<table border="0" cellspacing="5" cellpadding="10" width="400" height="100" align="center">
-  <tr>
-    <th><b>Programming Languages</b></th>
-    <th><b>Front End Development</b></th>
-    <th><b>Back End Development</b></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js,python" height=32 alt="Programming Languages" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css" height=32 alt="Frontend development" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height=32 alt="Backend development" /></td>
-  </tr>
-</table>
-
-## My Stats &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="27px" /> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvnramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvnramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-## My contributions 🐍
+## GitHub Activity &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="27px" /> 
 
 <img src="https://raw.githubusercontent.com/marvnramos/marvnramos/output/snake.svg" alt="Snake animation" />
 

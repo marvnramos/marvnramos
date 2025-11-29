@@ -1,4 +1,4 @@
-![cheese!](img/Header-Image.png)
+<img width="1310" height="429" alt="Gemini_Generated_Image_6i2n246i2n246i2n(1)" src="https://github.com/user-attachments/assets/124124ec-ce47-4035-ae6f-678a3ba90fc2" />
 
 ## Featured Projects 🫧
 

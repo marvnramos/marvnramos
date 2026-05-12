@@ -1,5 +1,3 @@
-<img width="1310" height="429" alt="Gemini_Generated_Image_6i2n246i2n246i2n(1)" src="https://github.com/user-attachments/assets/124124ec-ce47-4035-ae6f-678a3ba90fc2" />
-
 ## Featured Projects 🫧
 
 <img align="right" width="200px" alt="Cat" src="img/catgifdos.gif" />
@@ -16,8 +14,8 @@ GreenIX is a collaborative web application developed within the 'No Country' org
 ## Professional Experience & Education 🧠 
 
 ### Professional Experience (Ravn) 🐦‍⬛
-- **Software Engineer** (May 2025 – Present, Remote)
-- **Node.js Engineer, Nerdery** (Nov 2024 – May 2025, Hybrid)
+- **Software Engineer** (2025 – Present, Remote)
+- **Node.js Engineer, Nerdery** (2024 – 2025, Hybrid)
   - Specialized in backend development using advanced frameworks including GraphQL and NestJS.
 
 ### Academic and Community Contribution 📖

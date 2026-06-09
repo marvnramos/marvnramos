@@ -29,5 +29,5 @@ GreenIX is a collaborative web application developed within the 'No Country' org
 ## &nbsp;Connect with me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="27px" /> 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/marvn-ramos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marvnramos" /></a> 
+<a href="https://www.linkedin.com/in/marvnramos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marvnramos" /></a> 
 </div>

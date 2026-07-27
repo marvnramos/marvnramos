@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&amp;display=swap');
+
+      .title {
+        font-family: 'Gochi Hand', 'Comic Sans MS', cursive, sans-serif;
+        font-size: 42px;
+        fill: #333333;
+        text-anchor: middle;
+        font-weight: 400;
+      }
+      .subtitle {
+        font-family: 'Gochi Hand', 'Comic Sans MS', cursive, sans-serif;
+        font-size: 24px;
+        fill: #0969da;
+        text-anchor: middle;
+      }
+      .sparkle {
+        fill: #e3b341;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .title {
+          fill: #f0f6fc;
+        }
+        .subtitle {
+          fill: #58a6ff;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Greeting Text -->
+  <text x="450" y="75" class="title">
+    Greetings, wanderer! I'm Marvin Ramos ⚡
+  </text>
+
+  <!-- Subtitle Text -->
+  <text x="450" y="125" class="subtitle">
+    Backend Engineer &amp; AI Systems Specialist
+  </text>
+
+  <!-- Decorative Accents -->
+  <path class="sparkle" d="M 60 35 L 63 45 L 73 48 L 63 51 L 60 61 L 57 51 L 47 48 L 57 45 Z" />
+  <path class="sparkle" d="M 830 100 L 832 107 L 839 109 L 832 111 L 830 118 L 828 111 L 821 109 L 828 107 Z" />
+</svg>

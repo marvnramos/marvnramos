@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&amp;display=swap');
+
+      .title {
+        font-family: 'Gochi Hand', 'Comic Sans MS', cursive, sans-serif;
+        font-size: 46px;
+        fill: #333333; /* Dark gray for light theme */
+        text-anchor: middle;
+        font-weight: 400;
+      }
+      .subtitle {
+        font-family: 'Gochi Hand', 'Comic Sans MS', cursive, sans-serif;
+        font-size: 24px;
+        fill: #0969da; /* Vibrant blue */
+        text-anchor: middle;
+      }
+      .sparkle {
+        fill: #e3b341;
+      }
+
+      /* Automatic Dark Mode Support for GitHub */
+      @media (prefers-color-scheme: dark) {
+        .title {
+          fill: #f0f6fc; /* Bright white/gray for dark theme */
+        }
+        .subtitle {
+          fill: #58a6ff; /* Soft blue */
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Greeting Text -->
+  <text x="400" y="75" class="title">
+    Greetings, wanderer! I'm Marvin Ramos ⚡
+  </text>
+
+  <!-- Subtitle Text -->
+  <text x="400" y="125" class="subtitle">
+    Backend Engineer &amp; AI Systems Specialist
+  </text>
+
+  <!-- Decorative Accents -->
+  <path class="sparkle" d="M 110 35 L 113 45 L 123 48 L 113 51 L 110 61 L 107 51 L 97 48 L 107 45 Z" />
+  <path class="sparkle" d="M 690 100 L 692 107 L 699 109 L 692 111 L 690 118 L 688 111 L 681 109 L 688 107 Z" />
+</svg>
